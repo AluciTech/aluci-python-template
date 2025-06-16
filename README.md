@@ -7,7 +7,12 @@ This repository provides a reusable template for creating python projects that f
 ## Setup
 
 > [!NOTE]
-> For your python projects, we designed a setup script to create a virtual environment and install dependencies. You can run the script with various options to customize the environment or even modify it to your own needs. For more details, use `./setup.sh --help`.
+> To streamline your Python project setup, we've provided a `setup.sh` script that automatically creates a virtual environment and installs all required dependencies. The script supports several command-line options, allowing you to tailor the setup to your specific needs. You can also customize the script itself as needed.
+>
+> To explore available options, run:
+> `./setup.sh --help`
+>
+> This script has been developed and thoroughly tested on **Ubuntu 22.04 LTS**, **Ubuntu 24.04 LTS**, and **Debian 12.x LTS**. While it may work on other Linux distributions, compatibility is not guaranteed.
 
 ### Recommended Setup (using Miniconda)
 
