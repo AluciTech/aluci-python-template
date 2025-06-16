@@ -1,4 +1,4 @@
-# Aluci's Open Source Project Template
+# Aluci's Python Project Template
 
 ## Overview
 
